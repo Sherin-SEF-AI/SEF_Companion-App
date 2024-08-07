@@ -11,9 +11,9 @@ import os
 from twilio.rest import Client
 
 # Twilio credentials
-TWILIO_ACCOUNT_SID = 'AC9221586ccf5d4c99cc8601a36f122657'
-TWILIO_AUTH_TOKEN = '622161923ca8ccbea13a5a356a4fbecc'
-TWILIO_PHONE_NUMBER = '+12319036694'
+TWILIO_ACCOUNT_SID = ''
+TWILIO_AUTH_TOKEN = ''
+TWILIO_PHONE_NUMBER = ''
 
 UPLOAD_FOLDER = 'uploads'
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
